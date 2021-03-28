@@ -1,2 +1,1 @@
-# Arbok
-Some nitty-gritty R scripts
+# R for Data Science
