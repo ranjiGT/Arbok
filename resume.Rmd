@@ -1,0 +1,104 @@
+---
+title: "Ranji Raj's minimalisitic resume"
+author: Ranji Raj 
+date: "`r Sys.Date()`"
+output: 
+  pagedown::html_resume:
+    self_contained: TRUE
+---
+
+
+Aside
+==============================================================================
+
+```{r pressure, echo=FALSE, fig.cap="Display pic", out.width = '100%'}
+knitr::include_graphics("BW.jpg")
+```
+
+Contact Info {#contact}
+-----------------------------------------------------------------------------
+
+<i class="fa fa-envelope"></i>ranjiraj4141@gmail.com<br/>
+<i class="fa fa-github"></i>
+[Github](https://github.com/ranjiGT)<br/>
+<i class="fa fa-youtube"></i>
+[YouTube](https://www.youtube.com/c/RanjiRaj18/)<br/>
+<i class="fa fa-linkedin"></i>
+[LinkedIn](https://www.linkedin.com/in/reng99/)<br/>
+
+
+Skills {#skills}
+------------------------------------------------------------------------------
+
+- Python===========4+ yrs.
+- R===============1+ yrs.
+- SQL=============1+ yrs.
+- Data Science======2+ yrs.
+
+
+Disclaimer {#disclaimer}
+------------------------------------------------------------------------------
+
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+==============================================================================
+
+Ranji Raj Nair{#title}
+-----------------------------------------------------------------------------
+
+Education {data-icon=graduation-cap data-concise=true}
+-----------------------------------------------------------------------------
+
+
+### Otto von Guericke University
+Master - Data and Knowledge Engineering<br/>
+Major: Computer Science<br/>
+
+Magdeburg, Germany
+
+Apr 2019 - present
+
+Related coursework:
+
+- Introduction to Data Mining
+- Machine Learning
+- Advanced topics in Data Mining
+- Advanced topics in Machine Learning
+- Visual Analytics
+
+
+Work Experience {data-icon=suitcase}
+------------------------------------------------------------------------------
+
+### Junior Data Scientist
+
+QualityKiosk Technologies Pvt. Ltd.
+
+Navi Mumbai, India
+
+Jul 2016 - Apr 2018
+
+- Perform system administration, documentation and application
+testing, text normalization and processing, writing NLP parsers, and spell
+checkers.
+- Build and construct prototypes based on ML models, proof
+of concepts and present to the client, interfacing of the third-party cloud service
+’Parasoft CE’ for service virtualization and testing.
+- Present results in an intuitive, actionable manner that can
+be understood by all sponsor audiences and stakeholders, implementation of
+a middleware to check for payment optimization with security to the workflow.
+Support projects throughout their life-cycle, including conceptualization, requirements
+definition, data procurement, development, integration, and socialization.
+
+
+Activities & Projects {data-icon=project-diagram}
+-------------------------------------------------------------------------------
+
+- Quarterly Knowledge Transfer Session at QualityKiosk Technologies Pvt. Ltd.(2017)
+- Chatbot implementation (IDE: Spyder, Libraries: NLTK, sklearn)(2020)
+- Global Pandemic Predcitor (IDE: VScode, Libraries: Pandas, Numpy, Matplotlib, statsmodels.api) (2020)
+- emojivoto (Dockerized microservices hosted on Kubernetes cluster)(2020)
+- Scientific Team Project(2020)
