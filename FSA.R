@@ -57,8 +57,7 @@ bad.months
 best.month
 worst.month
 
-#BONUS:
-#Preview Of What's Coming In The Next Section
+
 M <- rbind(
   revenue.1000,
   expenses.1000,
